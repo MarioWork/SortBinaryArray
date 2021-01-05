@@ -1,0 +1,16 @@
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.exe
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.deps.json
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.runtimeconfig.dev.json
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.dll
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\ref\SortBinaryArray.dll
+C:\Users\filip\Documents\GitHub\SortBinaryArray\bin\Debug\net5.0\SortBinaryArray.pdb
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.csprojAssemblyReference.cache
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.dll
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\ref\SortBinaryArray.dll
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.pdb
+C:\Users\filip\Documents\GitHub\SortBinaryArray\obj\Debug\net5.0\SortBinaryArray.genruntimeconfig.cache
